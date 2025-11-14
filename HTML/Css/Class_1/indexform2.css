@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+      box-sizing: border-box;
+}
+.container{
+    height: 550px;
+    width: 350px;
+    /* border: 2px solid; */
+    margin: auto;
+    background-color: rgb(236, 160, 98);
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 12px;
+}
+.na{
+    margin-top: 10px;
+}
+label{
+    color: rgb(213, 32, 32);
+}
+button{
+    padding: 3px;
+}
+input{
+    float: right;
+}
+textarea{
+    float: right;
+}
+#gen{
+    float: right;
+}
+#plea{
+    float: left;
+}
+

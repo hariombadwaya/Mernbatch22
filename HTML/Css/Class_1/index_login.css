@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.formcontainer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.formcontainer h1{
+    color: white;
+    background-color: rgb(14, 92, 160);
+    margin-bottom: 1em;
+   padding-left: 45px;
+}
+.formcontainer button{
+    width: 70%;
+    padding: 7px;
+    margin-left: 35px;
+    color: white;
+    background-color: blue;
+    border: none;
+
+}
+.formcontainer input,label , select{
+    padding-left: 20px;
+}
+.lname{
+    margin-left: 100px;
+}
+.country{
+    margin-left: 100px;
+}
+.sel{
+    margin-left: 80px;
+}
